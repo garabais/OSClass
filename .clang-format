@@ -1,0 +1,8 @@
+# The style used for all options not specifically set in the configuration.
+BasedOnStyle: Google
+# The number of columns to use for indentation.
+IndentWidth: 4
+# The number of columns used for tab stops.
+TabWidth: 4
+# The way to use tab characters in the resulting file. Possible values: Never, ForIndentation, Always.
+UseTab: ForIndentation
